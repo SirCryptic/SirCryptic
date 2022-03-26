@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sir Cryptic
+### Hi there 👋
 #### Abit About Me:
 ![Abit About Me:](https://64.media.tumblr.com/32b0064f4de95433b6ce9b0886fb0bb9/tumblr_pl3415yPCd1w5tjdn_540.gifv)
 
