@@ -7,8 +7,7 @@ I make things just for fun, I Like To Trawl Around In Data Troves.
 Skills: Multiple Languages
 
 - 🔭 I’m currently working on Nothing As Of This Minute In Time. 
-- 🌱 I’m currently learning Game Script (GSC). 
-- 🤔 I’m looking for help with Game Script (GSC). 
+- 🌱 I’m currently learning Random Things. 
 - 📫 How to reach me: Discord ID: WizzWow#7198 
 - ⚡ Fun fact: Everything i code is a specific interest. 
 
