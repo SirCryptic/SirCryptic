@@ -14,10 +14,6 @@ Skills: Multiple Languages
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SirCryptic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18584596)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/S1rCrpt1c)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirCryptic&theme=monokai)
-
-![SirCryptic's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirCryptic&show_icons=true&theme=monokai)
-
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SirCryptic&theme=monokai)
 
 
