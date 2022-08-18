@@ -9,7 +9,7 @@ Skills: Multiple Languages
 - 🔭 I’m currently working on Nothing As Of This Minute In Time. 
 - 🌱 I’m currently learning Random Things. 
 - 📫 How to reach me: Discord ID: WizzWow#7198 
-- ⚡ Fun fact: Everything i code is a specific interest. 
+- ⚡ Fun fact: I Love To Automate Random Things Using Bash & Everything i code is a specific interest. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SirCryptic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18584596)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/S1rCrpt1c)  
