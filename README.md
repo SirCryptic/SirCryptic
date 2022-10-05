@@ -8,7 +8,6 @@ Skills: Multiple Languages
 
 - 🔭 I’m currently working on Nothing As Of This Minute In Time. 
 - 🌱 I’m currently learning Random Things. 
-- 📫 How to reach me: Discord ID: WizzWow#7198 
 - ⚡ Fun fact: I Love To Automate Random Things Using Bash & Everything i code is a specific interest. 
 
 
