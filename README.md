@@ -7,7 +7,7 @@ I make things just for fun, I Like To Trawl Around In Data Troves.
 Skills: Multiple Languages
 
 - 🔭 I’m currently working on Nothing As Of This Minute In Time. 
-- 🌱 I’m currently learning Random Things. 
+- 🌱 I’m currently learning Automotive Pentesting. 
 - ⚡ Fun fact: I Love To Automate Random Things Using Bash & Everything i code is a specific interest. 
 
 
