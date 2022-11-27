@@ -19,5 +19,3 @@ Skills: Multiple Languages
 ![trophy](https://github-profile-trophy.vercel.app/?username=SirCryptic&theme=onedark)
 
 ![Profile views](https://gpvc.arturio.dev/SirCryptic) 
-
-#test
