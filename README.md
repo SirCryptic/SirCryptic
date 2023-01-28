@@ -7,8 +7,8 @@ I make things just for fun, I Like To Trawl Around In Data Troves.
 
 Skills: Multiple Languages
 
-- 🔭 I’m currently working on Nothing As Of This Minute In Time. 
-- 🌱 I’m currently learning Automotive Pentesting. 
+- 🔭 I’m currently working on a overhaul of phisherprice 🤌 (This WILL take a considerable amount of time in the meantime please be patient thankyou). 
+- 🌱 I’m currently learning lots of things IOT related. 
 - ⚡ Fun fact: I Love To Automate Random Things Using Bash & Everything i code is a specific interest. 
 
 
