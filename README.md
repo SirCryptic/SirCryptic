@@ -21,6 +21,7 @@ Skills: Multiple Languages
 
 
 You can Support me by buying me a coffee ☕
-<p align = "left"><a href="https://www.buymeacoffee.com/sircryptic"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
+
+<a href="https://www.buymeacoffee.com/sircryptic"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sircryptic&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ![Profile views](https://gpvc.arturio.dev/SirCryptic) 
