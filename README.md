@@ -5,7 +5,7 @@
     onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
   </a>
 
-<p align="center"> I make things just for fun, I Like To Trawl Around In Data Troves.</p>
+<p align="center">I Like To Trawl Around In Data Troves.</p>
 <h1 align="center"> </h1>
 Skills: Multiple Languages
 
