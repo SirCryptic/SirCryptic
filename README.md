@@ -26,12 +26,6 @@ Skills: Multiple Languages
     <img width="500" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Joke">
 </p>
 
-
-<h1 align="center"> You can Support me by buying me a coffee ☕</h1>
-
-
 <div align="center">
-  <a href="https://www.buymeacoffee.com/sircryptic"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sircryptic&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-  <br />
   <img src="https://gpvc.arturio.dev/SirCryptic" alt="Profile views" />
 </div>
