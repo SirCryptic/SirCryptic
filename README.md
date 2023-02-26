@@ -9,7 +9,7 @@
 <h1 align="center"> </h1>
 Skills: Multiple Languages
 
-- 🔭 I’m currently working on a overhaul of phisherprice. 
+- 🔭 I’m currently working on PoC's. 
 - 🌱 I’m currently learning lots of things IOT related. 
 - ⚡ Fun fact: I Love To Automate Random Things Using Bash & Everything i code is a specific interest. 
 
