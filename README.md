@@ -7,7 +7,17 @@
 
 <p align="center">I Like To Trawl Around In Data Troves.</p>
 <h1 align="center"> </h1>
-Skills: Multiple Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.9-blue.svg" alt="Python 3.9">
+  <img src="https://img.shields.io/badge/HTML-5-orange.svg" alt="HTML 5">
+  <img src="https://img.shields.io/badge/CSS-3-blueviolet.svg" alt="CSS 3">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow.svg" alt="JavaScript ES6">
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-11-orange.svg" alt="C/C++ 11">
+  <img src="https://img.shields.io/badge/Bash-5.1-green.svg" alt="Bash 5.1">
+  <img src="https://img.shields.io/badge/PowerShell-7.1-blueviolet.svg" alt="PowerShell 7.1">
+  <img src="https://img.shields.io/badge/Lua-5.4-blue.svg" alt="Lua 5.4">
+  <img src="https://img.shields.io/badge/GSC-Black%20Ops%204-yellowgreen.svg" alt="GSC Black Ops 4">
+</div>
 
 - 🔭 I’m currently working on PoC's. 
 - 🌱 I’m currently learning lots of things IOT related. 
