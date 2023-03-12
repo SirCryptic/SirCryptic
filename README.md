@@ -9,6 +9,7 @@
 <h1 align="center"> </h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.9-blue.svg" alt="Python 3.9">
+  <img src="https://img.shields.io/badge/PHP-8.0.9-777BB4.svg?logo=php&logoColor=white" alt="PHP 8.0.9">
   <img src="https://img.shields.io/badge/HTML-5-orange.svg" alt="HTML 5">
   <img src="https://img.shields.io/badge/CSS-3-blueviolet.svg" alt="CSS 3">
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow.svg" alt="JavaScript ES6">
