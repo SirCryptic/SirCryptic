@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/GSC-C.O.D-yellowgreen.svg" alt="GSC C.O.D">
 </div>
 
-- 🔭 I’m currently working on PoC's. 
+- 🔭 I’m currently working on lots of projects. 
 - 🌱 I’m currently learning lots of things IOT related. 
 - ⚡ Fun fact: I Love To Automate Random Things Using Bash & Everything i code is a specific interest.
 <p align="center">
