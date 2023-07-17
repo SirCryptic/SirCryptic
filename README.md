@@ -35,7 +35,3 @@
 <p align="center">
     <img width="500" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Joke">
 </p>
-
-<div align="center">
-  <img src="https://gpvc.arturio.dev/SirCryptic" alt="Profile views" />
-</div>
