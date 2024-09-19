@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/GSC-C.O.D-yellowgreen.svg" alt="GSC C.O.D">
 </div>
 
-- 🔭 I’m currently working on lots of projects. 
-- 🌱 I’m currently learning lots of things IOT related. 
+- 🔭 I’m currently watching people who i worked with closely 👀😅. 
+- 🌱 I’m currently living life. 
 - ⚡ Fun fact: I Love To Automate Random Things Using Bash & Everything i code is a specific interest.
 <p align="center">
     <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SirCryptic&theme=monokai" alt="Null Security Team">
