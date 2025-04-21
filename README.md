@@ -28,7 +28,9 @@
     <img width="500" src="https://github-profile-trophy.vercel.app/?username=SirCryptic&theme=onedark" alt="Null Security Team">
 </p>
 
-<h1 align="center"> Random Joke</h1>
+<h1 align="center">Random Joke</h1>
+
 <p align="center">
-    <img width="500" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Joke">
+  <img width="500" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Joke"><br>
+  <img src="https://komarev.com/ghpvc/?username=SirCryptic&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
