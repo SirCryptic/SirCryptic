@@ -21,14 +21,6 @@
   <img src="https://img.shields.io/badge/GSC-C.O.D-88C0D0.svg?logo=codeigniter&logoColor=2E3440&style=for-the-badge" alt="GSC C.O.D">
 </div>
 
-<p align="center">
-  <img width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sircryptic&theme=nord_dark" alt="Profile Stats">
-</p>
-
-<p align="center">
-  <img width="500" src="https://github-profile-trophy.vercel.app/?username=SirCryptic&theme=nord" alt="sircryptic Trophies">
-</p>
-
 <h1 align="center">Random Joke</h1>
 <p align="center">
   <img width="500" src="https://readme-jokes.vercel.app/api?theme=nord&hideBorder" alt="Joke"><br>
